@@ -1,16 +1,19 @@
 {
     "trips":[
         {
-            "name" : "2 nights in Chaung Tha",
-            "price": 100000
+            "name"  : "2 nights in Chaung Tha",
+            "price" : 100000,
+            "ID"    : 1 
         },
         {
-            "name" : "3 nights in Mogoke",
-            "price": 150000
+            "name"  : "3 nights in Mogoke",
+            "price" : 150000,
+            "ID"    : 2
         },
         {
-            "name": "5 nights in Bangkok",
-            "price": 350000
+            "name"  : "5 nights in Bangkok",
+            "price" : 350000,
+            "ID"    : 3
         }
     ]
 }
